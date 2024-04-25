@@ -16,6 +16,5 @@ int main()
     printf("0x%x\n",puntero[1]);
     printf("0x%x\n",puntero[2]);
     printf("0x%x\n",puntero[3]);
-
     return 0;
 }
